@@ -1,0 +1,58 @@
+{
+  "version": "4.5.7",
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "dataset48.jpg",
+  "imageHeight": 2424,
+  "imageWidth": 3232,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Fence",
+      "group_id": 0,
+      "points": [
+        [
+          1174,
+          1708
+        ],
+        [
+          1105,
+          1680
+        ],
+        [
+          902,
+          1610
+        ],
+        [
+          968,
+          1623
+        ],
+        [
+          1103,
+          1668
+        ],
+        [
+          1174,
+          1705
+        ],
+        [
+          1174,
+          1708
+        ]
+      ]
+    }
+  ]
+}

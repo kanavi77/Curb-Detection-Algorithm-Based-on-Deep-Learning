@@ -1,0 +1,99 @@
+{
+  "version": "4.5.7",
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "dataset109.jpg",
+  "imageHeight": 1080,
+  "imageWidth": 1920,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Fence",
+      "group_id": 0,
+      "points": [
+        [
+          721,
+          546
+        ],
+        [
+          712,
+          546
+        ],
+        [
+          707,
+          543
+        ],
+        [
+          735,
+          544
+        ],
+        [
+          721,
+          546
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Fence",
+      "group_id": 0,
+      "points": [
+        [
+          837,
+          576
+        ],
+        [
+          826,
+          576
+        ],
+        [
+          821,
+          569
+        ],
+        [
+          794,
+          550
+        ],
+        [
+          736,
+          544
+        ],
+        [
+          861,
+          543
+        ],
+        [
+          861,
+          556
+        ],
+        [
+          846,
+          571
+        ],
+        [
+          846,
+          575
+        ],
+        [
+          837,
+          576
+        ]
+      ]
+    }
+  ]
+}

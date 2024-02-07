@@ -1,0 +1,140 @@
+{
+  "version": "4.5.7",
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "dataset23.jpg",
+  "imageHeight": 2448,
+  "imageWidth": 3264,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          719,
+          1635
+        ],
+        [
+          713,
+          1635
+        ],
+        [
+          725,
+          1621
+        ],
+        [
+          765,
+          1622
+        ],
+        [
+          762,
+          1629
+        ],
+        [
+          719,
+          1635
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          505,
+          1663
+        ],
+        [
+          502,
+          1663
+        ],
+        [
+          506,
+          1646
+        ],
+        [
+          693,
+          1622
+        ],
+        [
+          698,
+          1624
+        ],
+        [
+          703,
+          1635
+        ],
+        [
+          703,
+          1637
+        ],
+        [
+          505,
+          1663
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          623,
+          1892
+        ],
+        [
+          584,
+          1890
+        ],
+        [
+          583,
+          1888
+        ],
+        [
+          585,
+          1884
+        ],
+        [
+          595,
+          1884
+        ],
+        [
+          599,
+          1881
+        ],
+        [
+          626,
+          1882
+        ],
+        [
+          631,
+          1887
+        ],
+        [
+          623,
+          1892
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "version": "4.5.7",
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "dataset218.jpg",
+  "imageHeight": 3096,
+  "imageWidth": 4128,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2218,
+          1925
+        ],
+        [
+          2213,
+          1923
+        ],
+        [
+          2240,
+          1923
+        ],
+        [
+          2218,
+          1925
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2272,
+          1924
+        ],
+        [
+          2261,
+          1924
+        ],
+        [
+          2271,
+          1921
+        ],
+        [
+          2272,
+          1924
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2291,
+          1923
+        ],
+        [
+          2284,
+          1923
+        ],
+        [
+          2291,
+          1923
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2345,
+          1923
+        ],
+        [
+          2300,
+          1922
+        ],
+        [
+          2345,
+          1923
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2153,
+          1926
+        ],
+        [
+          2091,
+          1926
+        ],
+        [
+          2090,
+          1923
+        ],
+        [
+          2150,
+          1922
+        ],
+        [
+          2154,
+          1924
+        ],
+        [
+          2153,
+          1926
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2254,
+          1924
+        ],
+        [
+          2249,
+          1923
+        ],
+        [
+          2254,
+          1924
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          1016,
+          2205
+        ],
+        [
+          1003,
+          2189
+        ],
+        [
+          983,
+          2176
+        ],
+        [
+          1541,
+          2023
+        ],
+        [
+          1599,
+          2004
+        ],
+        [
+          1600,
+          2007
+        ],
+        [
+          1599,
+          2017
+        ],
+        [
+          1583,
+          2029
+        ],
+        [
+          1457,
+          2061
+        ],
+        [
+          1016,
+          2205
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          755,
+          2286
+        ],
+        [
+          752,
+          2284
+        ],
+        [
+          763,
+          2252
+        ],
+        [
+          762,
+          2235
+        ],
+        [
+          827,
+          2219
+        ],
+        [
+          823,
+          2226
+        ],
+        [
+          819,
+          2266
+        ],
+        [
+          755,
+          2286
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          436,
+          2385
+        ],
+        [
+          456,
+          2352
+        ],
+        [
+          476,
+          2352
+        ],
+        [
+          488,
+          2368
+        ],
+        [
+          436,
+          2385
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          0,
+          2520
+        ],
+        [
+          0,
+          2449
+        ],
+        [
+          159,
+          2398
+        ],
+        [
+          201,
+          2387
+        ],
+        [
+          239,
+          2445
+        ],
+        [
+          0,
+          2520
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Wall",
+      "group_id": 1,
+      "points": [
+        [
+          3323,
+          2069
+        ],
+        [
+          3264,
+          2066
+        ],
+        [
+          3274,
+          2056
+        ],
+        [
+          3275,
+          2042
+        ],
+        [
+          3290,
+          2038
+        ],
+        [
+          3294,
+          2020
+        ],
+        [
+          3287,
+          1990
+        ],
+        [
+          3277,
+          1971
+        ],
+        [
+          3477,
+          1977
+        ],
+        [
+          3469,
+          2064
+        ],
+        [
+          3323,
+          2069
+        ]
+      ]
+    }
+  ]
+}

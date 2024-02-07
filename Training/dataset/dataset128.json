@@ -1,0 +1,369 @@
+{
+  "version": "4.5.7",
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "dataset128.jpg",
+  "imageHeight": 2448,
+  "imageWidth": 3264,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          0,
+          1833
+        ],
+        [
+          0,
+          1801
+        ],
+        [
+          373,
+          1718
+        ],
+        [
+          543,
+          1677
+        ],
+        [
+          773,
+          1611
+        ],
+        [
+          907,
+          1578
+        ],
+        [
+          907,
+          1583
+        ],
+        [
+          867,
+          1598
+        ],
+        [
+          475,
+          1717
+        ],
+        [
+          0,
+          1833
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2254,
+          2402
+        ],
+        [
+          2165,
+          2400
+        ],
+        [
+          2070,
+          2329
+        ],
+        [
+          1851,
+          2142
+        ],
+        [
+          1297,
+          1688
+        ],
+        [
+          1191,
+          1582
+        ],
+        [
+          1204,
+          1589
+        ],
+        [
+          1283,
+          1661
+        ],
+        [
+          1440,
+          1787
+        ],
+        [
+          1878,
+          2108
+        ],
+        [
+          2254,
+          2402
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          2406,
+          2408
+        ],
+        [
+          2253,
+          2401
+        ],
+        [
+          1878,
+          2108
+        ],
+        [
+          1689,
+          1970
+        ],
+        [
+          1313,
+          1685
+        ],
+        [
+          1191,
+          1578
+        ],
+        [
+          1197,
+          1579
+        ],
+        [
+          1261,
+          1632
+        ],
+        [
+          1416,
+          1737
+        ],
+        [
+          2360,
+          2368
+        ],
+        [
+          2406,
+          2408
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1269,
+          1595
+        ],
+        [
+          1266,
+          1595
+        ],
+        [
+          1269,
+          1595
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1278,
+          1597
+        ],
+        [
+          1275,
+          1597
+        ],
+        [
+          1278,
+          1597
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1282,
+          1598
+        ],
+        [
+          1279,
+          1598
+        ],
+        [
+          1282,
+          1598
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1287,
+          1599
+        ],
+        [
+          1283,
+          1599
+        ],
+        [
+          1287,
+          1599
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1290,
+          1600
+        ],
+        [
+          1287,
+          1600
+        ],
+        [
+          1290,
+          1600
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1300,
+          1602
+        ],
+        [
+          1295,
+          1601
+        ],
+        [
+          1300,
+          1602
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1431,
+          1632
+        ],
+        [
+          1404,
+          1628
+        ],
+        [
+          1300,
+          1603
+        ],
+        [
+          1431,
+          1632
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1436,
+          1633
+        ],
+        [
+          1431,
+          1633
+        ],
+        [
+          1436,
+          1633
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Barrier",
+      "group_id": 1,
+      "points": [
+        [
+          1440,
+          1634
+        ],
+        [
+          1436,
+          1634
+        ],
+        [
+          1440,
+          1634
+        ]
+      ]
+    }
+  ]
+}

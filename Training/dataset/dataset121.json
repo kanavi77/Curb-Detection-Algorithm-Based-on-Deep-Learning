@@ -1,0 +1,95 @@
+{
+  "version": "4.5.7",
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "dataset121.jpg",
+  "imageHeight": 3024,
+  "imageWidth": 4032,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          2787,
+          2311
+        ],
+        [
+          2723,
+          2308
+        ],
+        [
+          2683,
+          2298
+        ],
+        [
+          2681,
+          2287
+        ],
+        [
+          2813,
+          2307
+        ],
+        [
+          2787,
+          2311
+        ]
+      ]
+    },
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          3160,
+          2385
+        ],
+        [
+          3153,
+          2384
+        ],
+        [
+          3142,
+          2370
+        ],
+        [
+          3093,
+          2355
+        ],
+        [
+          3115,
+          2350
+        ],
+        [
+          3157,
+          2359
+        ],
+        [
+          3159,
+          2361
+        ],
+        [
+          3160,
+          2385
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": "4.5.7",
+  "imageData": null,
+  "fillColor": [
+    255,
+    0,
+    0,
+    128
+  ],
+  "lineColor": [
+    0,
+    255,
+    0,
+    128
+  ],
+  "imagePath": "dataset227.jpg",
+  "imageHeight": 3096,
+  "imageWidth": 4128,
+  "shapes": [
+    {
+      "line_color": null,
+      "fill_color": null,
+      "shape_type": "polygon",
+      "label": "Curb",
+      "group_id": 0,
+      "points": [
+        [
+          0,
+          2780
+        ],
+        [
+          0,
+          2652
+        ],
+        [
+          363,
+          2471
+        ],
+        [
+          531,
+          2333
+        ],
+        [
+          520,
+          2245
+        ],
+        [
+          485,
+          2192
+        ],
+        [
+          588,
+          2242
+        ],
+        [
+          615,
+          2323
+        ],
+        [
+          568,
+          2432
+        ],
+        [
+          175,
+          2680
+        ],
+        [
+          0,
+          2780
+        ]
+      ]
+    }
+  ]
+}
